@@ -14,6 +14,4 @@ say so instead of showing a blank section. The app prints its own data limits,
 flags its own noisy matches, and grades its own calls as *self-reported* where no
 independent source exists.
 
-It runs from one ~12 MB executable: no installer, no cloud dependency, no
-telemetry. The six working modules are sealed as **AES-256** payloads, verified
-against FIPS-197 and NIST SP 800-38A test vectors, with tamper detection.
+It runs from one ~12 MB executable: no installer, no cloud dependency.
