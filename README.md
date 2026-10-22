@@ -3,8 +3,8 @@
 **Conflict signal, not conflict noise.**
 
 War Indicators is a single-file Windows desktop application for conflict early
-warning. It tracks **31 indicators across 7 lanes** — medical logistics, energy,
-finance, munitions, signatures, vehicles and doctrine — re-states **26 dated
+warning. It tracks **57 indicators across 9 lanes** — medical logistics, energy,
+finance, munitions, signatures, vehicles and doctrine — re-states **28 dated
 calls** with an independent check on each, and ranks near-term outcomes on a
 heuristic confluence score that is **explicitly not a probability**.
 
